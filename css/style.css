@@ -10,10 +10,11 @@ h3{
 hr{
   border-style:none;
   border-top-style:dotted;
-  border-color:grey;
+  border-color:skyblue;
   border-width:5px;
   width:5%;
 }
 img{
-  height:150px;
+  height:120px;
+  width:100px;
 }
